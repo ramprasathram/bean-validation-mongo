@@ -1,0 +1,10 @@
+com/example/beanvalidationmongo/repository/UserRepository.java
+ com.example.beanvalidationmongo.repository.UserRepository
+com/example/beanvalidationmongo/document/Users.java
+ com.example.beanvalidationmongo.document.Users
+com/example/beanvalidationmongo/BeanValidationMongoApplication.java
+ com.example.beanvalidationmongo.BeanValidationMongoApplication
+com/example/beanvalidationmongo/controller/MainController.java
+ com.example.beanvalidationmongo.controller.MainController
+com/example/beanvalidationmongo/config/MongoDbConfig.java
+ com.example.beanvalidationmongo.config.MongoDbConfig

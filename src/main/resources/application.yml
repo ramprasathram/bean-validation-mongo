@@ -1,0 +1,13 @@
+server:
+  port: 8095
+
+spring:
+  application:
+    name: MongoDb Sample
+  data:
+    mongodb:
+      database: mongo
+      host: localhost
+      port: 27017
+    repositories:
+      enabled: true
